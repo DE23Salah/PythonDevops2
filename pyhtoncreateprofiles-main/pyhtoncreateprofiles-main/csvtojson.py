@@ -15,4 +15,4 @@ def csv_till_json(csv_fil, json_fil):
 if __name__ == "__main__":
     csv_fil = "profiles1.csv"
     json_fil = "data.json"
-    csv_till_json(csv_fil, json_fil) #printa resultat. 
+    csv_till_json(csv_fil, json_fil) #printa resultat.
